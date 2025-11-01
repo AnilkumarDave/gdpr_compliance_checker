@@ -1,0 +1,30 @@
+page,issue,value,result,recommendation,legal_reference,priority
+https://webdriveruniversity.com/index.html,Phone detected,228047513-1,Flagged,Verify storage and lawful basis for phone numbers,GDPR Art. 5 & 6,High
+https://webdriveruniversity.com/index.html,Phone detected,660715475,Flagged,Verify storage and lawful basis for phone numbers,GDPR Art. 5 & 6,High
+https://webdriveruniversity.com/Click-Buttons/index.html,Phone detected,228047513-1,Flagged,Verify storage and lawful basis for phone numbers,GDPR Art. 5 & 6,High
+https://webdriveruniversity.com/Dropdown-Checkboxes-RadioButtons/index.html,Form field: color,color,Detected,"Check if form collects only necessary data, obtain consent if needed",GDPR Art. 5 & 6,Medium
+https://webdriveruniversity.com/Dropdown-Checkboxes-RadioButtons/index.html,Form field: color,color,Detected,"Check if form collects only necessary data, obtain consent if needed",GDPR Art. 5 & 6,Medium
+https://webdriveruniversity.com/Dropdown-Checkboxes-RadioButtons/index.html,Form field: color,color,Detected,"Check if form collects only necessary data, obtain consent if needed",GDPR Art. 5 & 6,Medium
+https://webdriveruniversity.com/Dropdown-Checkboxes-RadioButtons/index.html,Form field: color,color,Detected,"Check if form collects only necessary data, obtain consent if needed",GDPR Art. 5 & 6,Medium
+https://webdriveruniversity.com/Dropdown-Checkboxes-RadioButtons/index.html,Form field: color,color,Detected,"Check if form collects only necessary data, obtain consent if needed",GDPR Art. 5 & 6,Medium
+https://webdriveruniversity.com/Dropdown-Checkboxes-RadioButtons/index.html,Form field: vegetable,vegetable,Detected,"Check if form collects only necessary data, obtain consent if needed",GDPR Art. 5 & 6,Medium
+https://webdriveruniversity.com/Dropdown-Checkboxes-RadioButtons/index.html,Form field: vegetable,vegetable,Detected,"Check if form collects only necessary data, obtain consent if needed",GDPR Art. 5 & 6,Medium
+https://webdriveruniversity.com/Dropdown-Checkboxes-RadioButtons/index.html,Form field: vegetable,vegetable,Detected,"Check if form collects only necessary data, obtain consent if needed",GDPR Art. 5 & 6,Medium
+https://webdriveruniversity.com/Dropdown-Checkboxes-RadioButtons/index.html,Phone detected,228047513-1,Flagged,Verify storage and lawful basis for phone numbers,GDPR Art. 5 & 6,High
+https://webdriveruniversity.com/Ajax-Loader/index.html,Phone detected,228047513-1,Flagged,Verify storage and lawful basis for phone numbers,GDPR Art. 5 & 6,High
+https://webdriveruniversity.com/Actions/index.html,Phone detected,228047513-1,Flagged,Verify storage and lawful basis for phone numbers,GDPR Art. 5 & 6,High
+https://webdriveruniversity.com/Autocomplete-TextField/autocomplete-textfield.html,Form field: food-item,food-item,Detected,"Check if form collects only necessary data, obtain consent if needed",GDPR Art. 5 & 6,Medium
+https://webdriveruniversity.com/Autocomplete-TextField/autocomplete-textfield.html,Form field: None,,Detected,"Check if form collects only necessary data, obtain consent if needed",GDPR Art. 5 & 6,Medium
+https://webdriveruniversity.com/Autocomplete-TextField/autocomplete-textfield.html,Phone detected,228047513-1,Flagged,Verify storage and lawful basis for phone numbers,GDPR Art. 5 & 6,High
+https://webdriveruniversity.com/Datepicker/index.html,Phone detected,228047513-1,Flagged,Verify storage and lawful basis for phone numbers,GDPR Art. 5 & 6,High
+https://webdriveruniversity.com/Popup-Alerts/index.html,Phone detected,228047513-1,Flagged,Verify storage and lawful basis for phone numbers,GDPR Art. 5 & 6,High
+https://webdriveruniversity.com/File-Upload/index.html,Form field: filename,filename,Detected,"Check if form collects only necessary data, obtain consent if needed",GDPR Art. 5 & 6,Medium
+https://webdriveruniversity.com/File-Upload/index.html,Form field: None,,Detected,"Check if form collects only necessary data, obtain consent if needed",GDPR Art. 5 & 6,Medium
+https://webdriveruniversity.com/File-Upload/index.html,Phone detected,228047513-1,Flagged,Verify storage and lawful basis for phone numbers,GDPR Art. 5 & 6,High
+https://webdriveruniversity.com/Contact-Us/contactus.html,Form field: first_name,first_name,Detected,"Check if form collects only necessary data, obtain consent if needed",GDPR Art. 5 & 6,Medium
+https://webdriveruniversity.com/Contact-Us/contactus.html,Form field: last_name,last_name,Detected,"Check if form collects only necessary data, obtain consent if needed",GDPR Art. 5 & 6,Medium
+https://webdriveruniversity.com/Contact-Us/contactus.html,Form field: email,email,Detected,"Check if form collects only necessary data, obtain consent if needed",GDPR Art. 5 & 6,Medium
+https://webdriveruniversity.com/Contact-Us/contactus.html,Form field: message,message,Detected,"Check if form collects only necessary data, obtain consent if needed",GDPR Art. 5 & 6,Medium
+https://webdriveruniversity.com/Contact-Us/contactus.html,Form field: None,,Detected,"Check if form collects only necessary data, obtain consent if needed",GDPR Art. 5 & 6,Medium
+https://webdriveruniversity.com/Contact-Us/contactus.html,Form field: None,,Detected,"Check if form collects only necessary data, obtain consent if needed",GDPR Art. 5 & 6,Medium
+https://webdriveruniversity.com/Contact-Us/contactus.html,Phone detected,228047513-1,Flagged,Verify storage and lawful basis for phone numbers,GDPR Art. 5 & 6,High
