@@ -3,7 +3,6 @@
 📅 **Project Duration:** 25 November 2022 – 5 December 2022 (≈ 10 days, Part-Time)  
 🎓 **Academic Year:** First Term (MSc Information Security & Digital Forensics)  
 🏛️ **Institution:** University of East London, London, UK  
-👨‍🏫 **Mentor:** Professor Umar Ismail  
 📘 **Subject:** Security Management  
 
 ---
